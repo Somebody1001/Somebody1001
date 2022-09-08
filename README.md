@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Somebody1001
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning java, C#, and Python
-- 💞️ I’m looking to collaborate on RTS/turn based strategy game development
+- 💞️ I’m looking to collaborate on RTS/turn based strategy game development, or souls-like game development
 - 📫 How to reach me ...(TBD)
 
 <!---
